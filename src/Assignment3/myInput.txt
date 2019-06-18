@@ -1,0 +1,15 @@
+BUS:BUS001:Preparation for Studying Business
+ENG:ENG361:Engineering Challenge
+FIN:FIN281:Finance
+ITC:ITC512:Networking Concepts 2
+ITC:ITC538:Java 1
+ITC:ITC556:Database
+ITE:ITE516:Hacking Countermeasures
+LIT:LIT302:Contemporary Australian Writing
+MIS:MIS110:Radiographic Fundamentals
+NMT:NMT110:Introductory Nuclear Medicine
+PHL:PHL103:Theories Of Human Nature
+RAD:RAD110:Radiological Imaging 1
+SSC:SSC502:Ethics, Law and Medical Science
+VFX:VFX106:3D Animation
+ITC:ITC558:Programming Principles
